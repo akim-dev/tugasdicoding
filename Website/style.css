@@ -76,7 +76,11 @@ footer {
 }
 
 .profile img {
-  width: 200px;
+  width: 100%;
+}
+
+.card img{
+  width: 100%;
 }
 
 .card {
