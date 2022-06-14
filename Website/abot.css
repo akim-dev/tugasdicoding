@@ -1,0 +1,52 @@
+/* meng import google font */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap");
+
+body {
+  font-family: Quicksand;
+  background-color: DDDDDD;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  height: auto;
+
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 auto;
+  background-color: AAD8D3;
+  box-shadow: 5px 5px 15px 5px #000000;
+}
+
+.card img {
+  border: 5px solid FF5F00;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  background-color: FA9905;
+  text-align: center;
+  border-radius: 5px;
+}
+
+header {
+  background-color: FA9905;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.back{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    padding: 2px;
+    margin: 2px;
+    justify-content: centers;
+}
